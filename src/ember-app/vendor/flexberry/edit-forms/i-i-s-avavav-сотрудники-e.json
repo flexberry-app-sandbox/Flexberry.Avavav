@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Сотрудники",
+  "name": "IISAvavavСотрудникиE",
+  "className": "СотрудникиE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-avavav-сотрудники",
+      "modelProjection": "СотрудникиE"
+    }
+  ]
+}
